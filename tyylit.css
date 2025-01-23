@@ -1,0 +1,10 @@
+body {
+    background-color: seagreen;
+}
+h1 {
+    color:blue;
+    font-family: 40px;
+}
+p, blockquote {
+    color: red;
+}
